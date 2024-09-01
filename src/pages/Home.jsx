@@ -10,6 +10,7 @@ import ruby from '../assets/logos/ruby.png';
 import scala from '../assets/logos/scala.png';
 import clojure from '../assets/logos/clojure.png';
 import ScrollToTop from '../components/ScrollToTop';
+import { Link } from 'react-router-dom';
 import './utilities.css';
 
 export default function Home() {
