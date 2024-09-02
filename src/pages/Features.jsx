@@ -18,8 +18,8 @@ export default function Features() {
                     <div>
                         <h1 className="xl">Features</h1>
                         <p className="lead">
-                            Check out the features of Loruki that separate us
-                            from the competition
+                            Check out the features of TraxxDeploy that separate
+                            us from the competition
                         </p>
                     </div>
                     <img src={server} alt="image" />
@@ -28,7 +28,7 @@ export default function Features() {
             <section className="features-sub-head bg-light py-3">
                 <div className="container grid">
                     <div>
-                        <h1 className="md">The Loruki Platform</h1>
+                        <h1 className="md">The TraxxDeploy Platform</h1>
                         <p>
                             Lorem ipsum, dolor sit amet consectetur adipisicing
                             elit. Dolor cupiditate dignissimos temporibus

@@ -12,7 +12,7 @@ export default function Docs() {
                     <div>
                         <h1 className="xl">Docs</h1>
                         <p className="lead">
-                            Learn how to work with the Loruki platform
+                            Learn how to work with the TraxxDeploy platform
                         </p>
                     </div>
                     <img src={docs} alt="image" />
@@ -30,7 +30,7 @@ export default function Docs() {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">About Loruki</a>
+                                    <a href="#">About TraxxDeploy</a>
                                 </li>
                                 <li>
                                     <a href="#">Installation</a>
@@ -90,15 +90,15 @@ export default function Docs() {
                         <h3>Install</h3>
                         <p>Mac (Homebrew)</p>
                         <pre>
-                            <code>$ brew install loruki-cli</code>
+                            <code>$ brew install traxxdeploy-cli</code>
                         </pre>
                         <p>NPM</p>
                         <pre>
-                            <code>$ npm install loruki-cli</code>
+                            <code>$ npm install traxxdeploy-cli</code>
                         </pre>
                         <p>Yarn</p>
                         <pre>
-                            <code>$ yarn install loruki-cli</code>
+                            <code>$ yarn install traxxdeploy-cli</code>
                         </pre>
                     </div>
                 </div>
