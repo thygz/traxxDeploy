@@ -112,9 +112,9 @@ export default function Home() {
                             Cloud hosting like you've never seen. Fast,
                             efficient and scalable
                         </p>
-                        <a href="features.html" className="btn btn-dark">
-                            Read More
-                        </a>
+                        <Link to="/feataures">
+                            <button className="btn btn-dark">Read More</button>
+                        </Link>
                     </div>
                     <img src={cloud} alt="image" />
                 </div>
